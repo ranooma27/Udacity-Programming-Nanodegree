@@ -1,3 +1,32 @@
-.header {
-  color: #DDD;
+body {
+  font-family: Arial;
+  font-weight: 300;
+  color: #294860;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: left;
+}
+h3 {
+  text-align: left;
+}
+.lesson {
+  background-color: #294860;
+}
+.concept {
+  background-color: #fffddd;
+}
+.concept-title {
+  font-weight: 600;
+}
+.concept-description {
+  margin: 2px;
+}
+a {
+  color: #294860;
+}
+ul li{
+  list-style-type: none;
 }
